@@ -1,4 +1,5 @@
 require "str_methods_djungst/version"
+require "str_methods_djungst/greeting"
 
 module StrMethodsDjungst
   def self.reversify(str)
